@@ -7,6 +7,11 @@
 - 👯 I’m looking to collaborate on Github.
 - ⚡ Fun fact: I love Gaming, Swimming & listening to music.
 
+
+
+<p align="center">Check out my <a href="https://drizzyposh.github.io/Portfolio/">portfolio website</a> to get to view my projects and know my tech stack.</p>
+
+
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
