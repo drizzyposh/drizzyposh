@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on an Ecommerce app using React and Firebase.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on Github.
-- 📫 You can connect with me on [Twitter]() and [LinkedIn]().
 - ⚡ Fun fact: I love Gaming, Swimming & listening to music.
 
 <p align="center">
