@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on an Ecommerce app using React and Firebase.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React & Redux/Redux tool kit.
 - 👯 I’m looking to collaborate on Github.
 - 💭 I'm a Gamer, love Swimming & listening to music.
 
