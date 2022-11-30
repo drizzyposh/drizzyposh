@@ -20,7 +20,6 @@
   <img alt="SASS/SCSS" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width="40px" height="30px"/>
   <img alt="React" src="https://img.shields.io/badge/react-%23f2ca61.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Github" src="https://img.shields.io/badge/github-%23e4626b.svg?style=for-the-badge&logo=github&logoColor=140200"/>
-  <img alt="Firebase" src="https://w7.pngwing.com/pngs/620/609/png-transparent-firebase-cloud-messaging-google-cloud-messaging-api-as-a-service-angle-rectangle-triangle-thumbnail.png" width="40px" height="28px"/>
   <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe after effects-%23fca9ae.svg?style=for-the-badge&logo=Adobe-after-effects&logoColor=140200" />
 </p>
 
