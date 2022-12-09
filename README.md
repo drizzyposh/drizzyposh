@@ -9,7 +9,7 @@
 
 
 
-<p align="center">Check out my <a href="https://drizzyposh.github.io/Portfolio/">portfolio website</a> to get to know about me, view my projects and know my tech stack.</p>
+<p align="center">Check my <a href="https://drizzyposh.github.io/Portfolio/">portfolio website</a> to get to know about me, view my projects and know my tech stack.</p>
 
 
 <p align="center">
