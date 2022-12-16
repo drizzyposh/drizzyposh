@@ -2,7 +2,7 @@
 <h3 align="center">A Developer from Nigeria.</h3>
 
 
-- 🔭 I’m currently working on an Ecommerce app using React & Firebase.
+<!-- - 🔭 I’m currently working on an Ecommerce app using React & Firebase. -->
 - 🌱 I’m currently learning Redux/Redux tool kit.
 - 👯 I’m looking to collaborate on Github.
 - 💭 A Gamer, Love swimming and  listening to music.
