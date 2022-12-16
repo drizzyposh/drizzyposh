@@ -1,4 +1,4 @@
-<h1 align="center">Great to have you here👋, I'm <a href="https://drizzyposh.github.io/Portfolio/">Oluwafemi</a>!</h1>
+<h1 align="center">Great to have you here👋, I'm <a href="https://femzyfadayomiportfolio.netlify.app/">Oluwafemi</a>!</h1>
 <h3 align="center">A Developer from Nigeria.</h3>
 
 
@@ -9,7 +9,7 @@
 
 
 
-<p align="center">Check my <a href="https://drizzyposh.github.io/Portfolio/">portfolio website</a> to get to know about me, view my projects and know my tech stack.</p>
+<p align="center">Check my <a href="https://femzyfadayomiportfolio.netlify.app/">portfolio website</a> to get to know about me, view my projects and know my tech stack.</p>
 
 
 <p align="center">
