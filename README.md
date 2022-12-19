@@ -1,5 +1,5 @@
 <h1 align="center">Great to have you here👋, I'm <a href="https://femzyfadayomiportfolio.netlify.app/">Oluwafemi</a>!</h1>
-<h3 align="center">A Developer from Nigeria.</h3>
+<h3 align="center">A Developer from Nigeria</h3>
 
 
 <!-- - 🔭 I’m currently working on an Ecommerce app using React & Firebase. -->
