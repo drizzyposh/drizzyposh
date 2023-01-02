@@ -1,12 +1,12 @@
-<h1 align="center">Great to have you here👋, I'm <a href="https://femzyfadayomiportfolio.netlify.app/">Oluwafemi</a>!</h1>
-<h3 align="center">A Developer from Nigeria</h3>
+X<h1 align="center">Great to have you here👋, I'm <a href="https://femzyfadayomiportfolio.netlify.app/">Oluwafemi</a>!</h1>
+<h3 align="center">A Develope from Nigeria</h3>
+I
 
-
-<!-- - 🔭 I’m currently working on an Ecommerce app using React & Firebase. -->
+<!-- - 🔭 I’m currently hhhhhhworking on an Ecommerce app using React & Firebase. -->
 - 🌱 I’m currently learning Redux/Redux tool kit.
-- 👯 I’m looking to collaborate on Github.
+- 👯 I’m looking to collaborate,5 and  and on Github.
 - 💭 A Gamer, Love swimming and  listening to music.
-
+ Y
 
 
 <p align="center">Check my <a href="https://femzyfadayomiportfolio.netlify.app/">portfolio website</a> to get to know about me, view my projects and know my tech stacks.</p>
