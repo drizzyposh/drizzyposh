@@ -5,7 +5,7 @@ I
 <!-- - 🔭 I’m currently hhhhhhworking on an Ecommerce app using React & Firebase. -->
 - 🌱 I’m currently learning Redux/Redux tool kit.
 - 👯 I’m looking to collaborate,5 and  and on Github.
-- 💭 A Gamer, Love swimming and  listening to music.
+- 💭 A Gamer, love swimming & listening to music.
  Y
 
 
