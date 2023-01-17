@@ -3,7 +3,7 @@ X<h1 align="center">Great to have you here👋, I'm <a href="https://femzyfadayo
 
 
 - 🔭 I’m currently working on a Car Rental website using React & Boostrap.
-- 🌱 I’m currently learning Redux/Redux tool kit.
+- 🌱 I’m currently learning Full Stack Software Engineering at <a href="https://www.alxafrica.com/"></a>.
 - 👯 I’m looking to collaborate on Github.
 - 💭 Gamer, love swimming & listening to music.
 
