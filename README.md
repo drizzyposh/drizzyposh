@@ -38,4 +38,5 @@ X<h1 align="center">Great to have you here👋, I'm <a href="https://femzyfadayo
 
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drizzyposh&layout=compact)](https://github.com/drizzyposh/github-readme-stats)
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drizzyposh&layout=compact)](https://github.com/drizzyposh/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drizzyposh&langs_count=8)](https://github.com/drizzyposh/github-readme-stats)
