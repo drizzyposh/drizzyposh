@@ -31,7 +31,6 @@ X<h1 align="center">Great to have you here👋, I'm <a href="https://femzyfadayo
 <p align="center">
   <a href="https://www.linkedin.com/in/oluwafemi-fadayomi-72a274a5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://www.instagram.com/femzy.gram/?next=%2F"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
- <a href="https://www.github.com/drizzyposh">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) </a
 </p>
 
 
