@@ -4,7 +4,7 @@ X<h1 align="center">Great to have you here👋, I'm <a href="https://femzyfadayo
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drizzyposh&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
 
-- 🔭 I’m currently working on a Car Rental website using React & Boostrap.
+- 🔭 I’m currently working on a Car Rental website using React, Boostrap & Firebase.
 - 🌱 I’m currently learning Software Engineering at <a href="https://www.alxafrica.com/" target="_blank" >ALX</a>.
 - 👯 I’m looking to collaborate on Github.
 - 💭 Gamer, love swimming & listening to music.
