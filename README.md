@@ -1,15 +1,13 @@
 <h1 align="center">Great to have you here👋, I'm <a href="https://femzyfadayomiportfolio.netlify.app/">Oluwafemi</a>!</h1>
 <h3 align="center">A developer from Nigeria</h3>
 
-<p align="left"> <img src="[[https://komarev.com/ghpvc/?username=drizzyposh&label=Profile%20views&color=0e75b6&style=flat](https://th.bing.com/th/id/R.8c1719d731849436c9b734d7d65e9558?rik=8VoAbjMYZDOprw&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fpython-logo-png-this-free-icons-png-design-of-python-language-logo-2400.png&ehk=RtFD81f%2bDnsPkihCYW3r33HLHcP1fnkLznAfCG7LheU%3d&risl=&pid=ImgRaw&r=0)" alt="kimjayden](https://www.adimian.com/wp-content/uploads/2020/11/pythonlogo.png)" /> </p>
-
 
 - 🔭 I’m currently working on a Car Rental website using React, Boostrap & Firebase.
 - 🌱 I’m currently learning Software Engineering at <a href="https://www.alxafrica.com/" target="_blank" >ALX</a>.
 - 👯 Looking to collaborate on Github.
 - 💭 Gamer, love swimming & listening to music.
 
-   <span><img src="[https://i.ibb.co/DVb9MZg/.png](https://th.bing.com/th/id/OIP.-hBu2A_vsgR2-YnC11TzogHaEm?w=264&h=180&c=7&r=0&o=5&dpr=2&pid=1.7)" alt="wix"></span>
+   <span><img src="[[https://i.ibb.co/DVb9MZg/.png](https://th.bing.com/th/id/OIP.-hBu2A_vsgR2-YnC11TzogHaEm?w=264&h=180&c=7&r=0&o=5&dpr=2&pid=1.7)](https://rants.tech/wp-content/uploads/2021/02/309-3091112_clipart-of-python-and-binatang-transparent-cartoons-python.png)" alt="wix"></span>
 
 
 <p align="center">Check my <a href="https://femzyfadayomiportfolio.netlify.app/">portfolio website</a> to get to know about me, view my projects and know my tech stacks.</p>
