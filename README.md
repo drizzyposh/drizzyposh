@@ -46,4 +46,4 @@
 
 ![Oluwafemi's github stats](https://github-readme-stats.vercel.app/api?username=drizzyposh&count_private=true&theme=nightowl&hide=contribs,prs)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drizzyposh&theme=radical" alt="Drizzyposh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drizzyposh&theme=nightowl" alt="Drizzyposh" /></p>
