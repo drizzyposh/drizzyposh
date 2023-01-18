@@ -9,7 +9,7 @@
 - 👯 Looking to collaborate on Github.
 - 💭 Gamer, love swimming & listening to music.
 
-   <span><img src="https://i.ibb.co/DVb9MZg/python.png" alt="wix"></span>
+   <span><img src="[https://i.ibb.co/DVb9MZg/.png](https://th.bing.com/th/id/OIP.-hBu2A_vsgR2-YnC11TzogHaEm?w=264&h=180&c=7&r=0&o=5&dpr=2&pid=1.7)" alt="wix"></span>
 
 
 <p align="center">Check my <a href="https://femzyfadayomiportfolio.netlify.app/">portfolio website</a> to get to know about me, view my projects and know my tech stacks.</p>
