@@ -9,8 +9,6 @@
 - 👯 Looking to collaborate on Github.
 - 💭 Gamer, love swimming & listening to music.
 
-   <span><img src="[[https://i.ibb.co/DVb9MZg/.png](https://th.bing.com/th/id/OIP.-hBu2A_vsgR2-YnC11TzogHaEm?w=264&h=180&c=7&r=0&o=5&dpr=2&pid=1.7)](https://rants.tech/wp-content/uploads/2021/02/309-3091112_clipart-of-python-and-binatang-transparent-cartoons-python.png)" alt="wix"></span>
-
 
 
 
