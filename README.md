@@ -1,7 +1,7 @@
 <h1 align="center">Great to have you here👋, I'm <a href="https://femzyfadayomiportfolio.netlify.app/">Oluwafemi</a>!</h1>
 <h3 align="center">A developer from Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drizzyposh&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=drizzyposh&label=Profile%20views&color=0e75b6&style=flat](https://th.bing.com/th/id/R.8c1719d731849436c9b734d7d65e9558?rik=8VoAbjMYZDOprw&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fpython-logo-png-this-free-icons-png-design-of-python-language-logo-2400.png&ehk=RtFD81f%2bDnsPkihCYW3r33HLHcP1fnkLznAfCG7LheU%3d&risl=&pid=ImgRaw&r=0)" alt="kimjayden" /> </p>
 
 
 - 🔭 I’m currently working on a Car Rental website using React, Boostrap & Firebase.
