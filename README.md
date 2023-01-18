@@ -44,4 +44,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drizzyposh&layout=compact)](https://github.com/drizzyposh/github-readme-stats)
 
-![Oluwafemi's github stats](https://github-readme-stats.vercel.app/api?username=drizzyposh&count_private=true&theme=merko&hide=contribs,prs)
+![Oluwafemi's github stats](https://github-readme-stats.vercel.app/api?username=drizzyposh&count_private=true&theme=nightowl&hide=contribs,prs)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drizzyposh&theme=nightowl" alt="drizzyposh" /></p>
