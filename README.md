@@ -10,7 +10,7 @@
 - 💭 Gamer, love swimming & listening to music.
 
 
-
+<h2><p align="center"> Technologies  </p> </h2>
 
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
