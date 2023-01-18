@@ -43,3 +43,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drizzyposh&layout=compact)](https://github.com/drizzyposh/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=drizzyposh)](https://github.com/drizzypposh/github-readme-stats)
