@@ -6,7 +6,7 @@
 
 <!-- - 🔭 I’m currently working on a Car Rental website using React, Boostrap & Firebase. -->
 - 🔭 I'm currently learning Redux & Redux Toolkit
-- 🌱 Software Engineering at <a href="https://www.alxafrica.com/" target="_blank" >ALX</a>.
+- 🌱 Software Engineering scholar at <a href="https://www.alxafrica.com/" target="_blank" >ALX</a>.
 - 👯 Looking to collaborate on Github.
 - 💭 Gamer, love swimming & listening to music.
 
