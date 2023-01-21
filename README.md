@@ -14,9 +14,12 @@
 <h2><p align="center">  Technologies  </p> </h2>
 
 <p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<!--   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/> -->
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-007ACC?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-Css3-007ACC?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=white" />
+<!--   <img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/> -->
+<!--   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> -->
   <img alt="Bootstrap" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" width="40px" height="30px"/>
   <img alt="SASS/SCSS" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width="40px" height="30px"/>
   <img alt="React" src="https://img.shields.io/badge/-React-007ACC?style=flat-square&logo=react&logoColor=white" />
