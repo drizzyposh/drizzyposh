@@ -23,7 +23,7 @@
 <!--   <img alt="React" src="https://img.shields.io/badge/react-%23f2ca61.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
   <img alt="Github" src="https://img.shields.io/badge/-Github-007ACC?style=flat-square&logo=github&logoColor=white" />
 <!--   <img alt="Github" src="https://img.shields.io/badge/github-%23e4626b.svg?style=for-the-badge&logo=github&logoColor=140200"/> -->
-  <img alt="PhotoShop" src="https://img.shields.io/badge/-Photoshop-007ACC?style=flat-square&logo=photoshop&logoColor=white" />
+  <img alt="PhotoShop" src="https://img.shields.io/badge/-AdobePhotoshop-007ACC?style=flat-square&logo=adobephotoshop&logoColor=white" />
 <!--   <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe after effects-%23fca9ae.svg?style=for-the-badge&logo=Adobe-after-effects&logoColor=140200" /> -->
   <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python&logoColor=white" />
 </p>
