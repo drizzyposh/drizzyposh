@@ -36,6 +36,8 @@
   
   <img alt="Illustrator" src="https://img.shields.io/badge/-Adobeillustrator-007ACC?style=flat-square&logo=adobepillustrator&logoColor=white" />
   
+  <img alt="After effect" src="https://img.shields.io/badge/-AdobeAfterEffects-007ACC?style=flat-square&logo=adobeaftereffects&logoColor=white" />
+  
 
 
 <!--   <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python&logoColor=white" /> -->
