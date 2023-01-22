@@ -14,23 +14,23 @@
 <h2><p align="center">  Technologies  </p> </h2>
 
 <p align="center">
-<!--   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/> -->
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-007ACC?style=flat-square&logo=html5&logoColor=orange" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=yellow" />
-<!--   <img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/> -->
-<!--   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> -->
+
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-007ACC?style=flat-square&logo=bootstrap&logoColor=purple" />
+  
   <img alt="SASS" src="https://img.shields.io/badge/-SASS/SCSS-007ACC?style=flat-square&logo=sass&logoColor=pink" />
-<!--   <img alt="Bootstrap" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" width="40px" height="30px"/> -->
-<!--   <img alt="SASS/SCSS" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width="40px" height="30px"/> -->
+
   <img alt="React" src="https://img.shields.io/badge/-React-007ACC?style=flat-square&logo=react&logoColor=darkblue" />
-<!--   <img alt="React" src="https://img.shields.io/badge/react-%23f2ca61.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
+
   <img alt="Github" src="https://img.shields.io/badge/-Github-007ACC?style=flat-square&logo=github&logoColor=white" />
-<!--   <img alt="Github" src="https://img.shields.io/badge/github-%23e4626b.svg?style=for-the-badge&logo=github&logoColor=140200"/> -->
+
   <img alt="PhotoShop" src="https://img.shields.io/badge/-AdobePhotoshop-007ACC?style=flat-square&logo=adobephotoshop&logoColor=white" />
-<!--   <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe after effects-%23fca9ae.svg?style=for-the-badge&logo=Adobe-after-effects&logoColor=140200" /> -->
-  <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python&logoColor=white" />
+  
+  <img alt="Illustrator" src="https://img.shields.io/badge/-Adobeillustrator-007ACC?style=flat-square&logo=adobepillustrator&logoColor=white" />
+
+<!--   <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python&logoColor=white" /> -->
 </p>
 
 
