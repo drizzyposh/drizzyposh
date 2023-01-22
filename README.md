@@ -18,7 +18,7 @@
   
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=css3&logoColor=white" />
   
-  <img alt="JavaScript" src="https://img.shields.io/badge/-Js-007ACC?style=flat-square&logo=jst&logoColor=yellow" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-007ACC?style=flat-square&logo=javascript&logoColor=yellow" />
 
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-007ACC?style=flat-square&logo=bootstrap&logoColor=purple" />
   
