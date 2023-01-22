@@ -25,6 +25,8 @@
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 
   <img alt="React" src="https://img.shields.io/badge/-React-007ACC?style=flat-square&logo=react&logoColor=darkblue" />
+  
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-007ACC?style=flat-square&logo=firebase&logoColor=darkblue" />
 
   <img alt="Github" src="https://img.shields.io/badge/-Github-007ACC?style=flat-square&logo=github&logoColor=white" />
   
