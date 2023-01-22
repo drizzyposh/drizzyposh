@@ -29,6 +29,8 @@
   <img alt="PhotoShop" src="https://img.shields.io/badge/-AdobePhotoshop-007ACC?style=flat-square&logo=adobephotoshop&logoColor=white" />
   
   <img alt="Illustrator" src="https://img.shields.io/badge/-Adobeillustrator-007ACC?style=flat-square&logo=adobepillustrator&logoColor=white" />
+  
+ ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <!--   <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python&logoColor=white" /> -->
 </p>
