@@ -61,9 +61,11 @@
 </p>
 
 
-<a href="https://github.com/anuraghazra/convoychat">
+<!-- <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drizzyposh&layout=theme=nightowl" />
-</a>
+</a> -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drizzyposh&layout=compact)](https://github.com/drizzyposh/github-readme-stats)
 
 
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drizzyposh&layout=compact&theme=nightowl)](https://github.com/drizzyposh/github-readme-stats) -->
