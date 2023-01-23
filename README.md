@@ -65,7 +65,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drizzyposh&layout=theme=nightowl" />
 </a> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drizzyposh&layout=compact&theme=dark)](https://github.com/drizzyposh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drizzyposh&layout=compact&theme=nightowl)](https://github.com/drizzyposh/github-readme-stats)
 
 
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drizzyposh&layout=compact&theme=nightowl)](https://github.com/drizzyposh/github-readme-stats) -->
