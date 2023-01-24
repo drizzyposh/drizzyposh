@@ -6,8 +6,9 @@
 
 <!-- - 🔭 I’m currently working on a Car Rental website using React, Boostrap & Firebase. -->
 - 🌱 Software Engineering scholar at <a href="https://www.alxafrica.com/" target="_blank" >ALX</a>
-- 👯 Looking to collaborate on Github
-- 💭 Toonie, Gamer, Love swimming & Listening to music
+- 👯 Looking forward to collaborations on Github/Projects
+- ⚡  I love swimming, watching cartoons, listening to music, hangouts & gaming
+<!-- - 💭  -->
 
 
 <h2><p align="center">  Technologies  </p> </h2>
