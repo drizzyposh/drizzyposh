@@ -1,4 +1,4 @@
-<h1 align="center">Great to have you here👋, I'm <a href="https://femzyfadayomiportfolio.netlify.app/">Oluwafemi</a>!</h1>
+<h1 align="center">Great to have you here👋, I'm <a href="https://femzyfadayomiportfolio.netlify.app/" target="_blank" >Oluwafemi</a>!</h1>
 <h3 align="center">A developer from Nigeria</h3>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=drizzyposh.drizzyposh&style=flat-square&color=ffeb00)
