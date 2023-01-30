@@ -7,7 +7,7 @@
 <!-- - 🔭 I’m currently working on a Car Rental website using React, Boostrap & Firebase. -->
 - 🌱 Software Engineering scholar at <a href="https://www.alxafrica.com/" target="_blank" >ALX</a>
 - 👯 Looking forward to collaborations on Github/Projects
-- ⚡ Fun fact: I love swimming, watching cartoons, listening to music, playing basketball & gaming
+- ⚡ Fun fact: Love swimming, watching cartoons, listening to music, playing basketball & gaming
 <!-- - 💭  -->
 
 
