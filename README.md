@@ -4,7 +4,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=drizzyposh.drizzyposh&style=flat-square&color=ffeb00)
 
 
-- 🔭 I’m currently learning C Program
+- 🔭 Currently learning C Program
 - 🌱 Software Engineering scholar at <a href="https://www.alxafrica.com/" target="_blank" >ALX</a>
 - 👯 Looking forward to collaborations on Github/Projects
 - ⚡ Fun fact: Love swimming, watching cartoons, listening to music, playing basketball & gaming
