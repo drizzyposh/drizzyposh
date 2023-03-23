@@ -7,7 +7,7 @@
 - 🔭 Currently learning C Program
 <!-- - 🌱 Software Engineering scholar at <a href="https://www.alxafrica.com/" target="_blank" >ALX</a> -->
 - 👯 Looking forward to collaborate on Github/Projects
-- ⚡ Fun fact: Love swimming, watching cartoons, listening to music, playing basketball & gaming
+- ⚡ Fun fact: I'm a gamer, love swimming, watching cartoons, listening to music & playing basketball
 <!-- - 💭  -->
 
 
