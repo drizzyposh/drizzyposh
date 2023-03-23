@@ -5,7 +5,7 @@
 
 
 
-- 🏢 Software Engineer(Frontend) & Dynamics 365 consultant <a href="https://lms.gems-consult.com/"> gems-consult </a> 
+- 🏢 Software Engineer(Frontend) & Dynamics 365 analyst <a href="https://lms.gems-consult.com/"> gems-consult </a> 
 - 🔭 Currently learning C Program
 - 👯 Looking forward to collaborate on Github/Projects
 - 📫 Reach out to me: <a href="femzyfadayomi@gmail.com">femzyfadayomi@gmail.com</a>
