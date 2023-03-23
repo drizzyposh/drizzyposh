@@ -5,7 +5,7 @@
 
 
 
-- 🏢 Software Engineer(Frontend) & Dynamics 365 analyst 
+- 🏢 Software Engineer(Frontend)
 - 🔭 Currently learning C Program
 - 👯 Looking forward to collaborate on Github/Projects
 - 📫 Reach out to me: <a href="femzyfadayomi@gmail.com">femzyfadayomi@gmail.com</a>
