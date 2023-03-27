@@ -12,6 +12,8 @@
 - ⚡ Fun fact: I'm a gamer, love swimming, watching cartoons, listening to music & playing basketball
 <!-- - 💭  -->
 
+<p>Click on <a href="https://femzyfadayomiportfolio.netlify.app/" target="_blank" >my portfolio</a> to get to know about me and my Tech Stack</p>
+
 
 <h2><p align="center">  Technologies  </p> </h2>
 
