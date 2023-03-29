@@ -1,4 +1,4 @@
-<h1 align="center">Great to have you here👋, I'm <a href="https://femzyfadayomiportfolio.netlify.app/" target="_blank" >Oluwafemi</a>!</h1>
+<h1 align="center">Great to have you here👋, I'm <a href="https://femzyfadayomi.netlify.app/" target="_blank" >Oluwafemi</a>!</h1>
 <h3 align="center">A developer from Nigeria</h3>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=drizzyposh.drizzyposh&style=flat-square&color=ffeb00)
@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I'm a gamer, love swimming, watching cartoons, listening to music & playing basketball
 <!-- - 💭  -->
 
-<p>View <a href="https://femzyfadayomiportfolio.netlify.app/" target="_blank" >my portfolio</a> to know about me, my projects and  tech stack.</p>
+<p>View <a href="https://femzyfadayomi.netlify.app/" target="_blank" >my portfolio</a> to know about me, my projects and  tech stack.</p>
 
 
 <h2><p align="center">  Technologies  </p> </h2>
