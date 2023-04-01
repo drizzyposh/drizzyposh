@@ -59,7 +59,7 @@
   <a href="mailto:femzyfadayomi@gmail.com">
   <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/____drizzy">
+  <a href="https://twitter.com/dri__zzz">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 </p>
