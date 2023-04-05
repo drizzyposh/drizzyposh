@@ -34,7 +34,7 @@
 
   <img alt="Github" src="https://img.shields.io/badge/-Github-007ACC?style=flat-square&logo=github&logoColor=black" />
   
-  <img alt="Shell" src="https://img.shields.io/badge/-Shell-007ACC?style=flat-square&logo=github&logoColor=black" />
+  <img alt="Shell" src="https://img.shields.io/badge/-Shell-007ACC?style=flat-square&logo=shell&logoColor=black" />
   
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   
