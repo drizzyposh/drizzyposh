@@ -6,11 +6,11 @@
 
 
 - 🏢 Software Engineer(Frontend)
-- 🔭 Currently learning C 
 - 👯 Looking forward to collaborate on Github/Projects
 - 📫 Reach out to me: <a href="femzyfadayomi@gmail.com">femzyfadayomi@gmail.com</a>
 - ⚡ Fun fact: I'm a gamer, love swimming, watching cartoons, listening to music & playing basketball
 <!-- - 💭  -->
+<!-- - 🔭  -->
 
 <p>View <a href="https://femzyfadayomi.netlify.app/" target="_blank" >my portfolio</a> to know about me, my projects and  tech stack.</p>
 
