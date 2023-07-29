@@ -8,7 +8,7 @@
 - 🏢 Software Engineer(Frontend)
 - 👯 Looking forward to collaborate on Github
 - 📫 Reach out to me: <a href="femzyfadayomi@gmail.com">femzyfadayomi@gmail.com</a>
-- ⚡ Fun fact: I'm a gamer, swimmer, musicophile, toonie & sports enthusiast
+- ⚡ Fun fact: I'm a gamer & sports enthusiast
 <!-- - 💭  -->
 <!-- - 🔭  -->
 
