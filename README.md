@@ -3,7 +3,7 @@
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=drizzyposh.drizzyposh&style=flat-square&color=ffeb00) -->
 <a href="https://www.youtube.com/watch?v=ZxZ1I1yTCUI&ab_channel=Joshwin"> 
-<img src="https://profile-counter.glitch.me/0vm/count.svg" alt="0vm" />
+<img src="https://profile-counter.glitch.me/drizzyposh/count.svg" alt="drizzyposh" />
 </a>
 
 
