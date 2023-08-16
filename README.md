@@ -2,7 +2,8 @@
 <h3 align="center">A developer from Nigeria.</h3>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=drizzyposh.drizzyposh&style=flat-square&color=ffeb00) -->
-
+<img src="https://profile-counter.glitch.me/0vm/count.svg" alt="0vm" />
+</a>
 
 
 - 🏢 Software Engineer(Frontend)
