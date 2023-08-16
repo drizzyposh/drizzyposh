@@ -2,6 +2,8 @@
 <h3 align="center">A developer from Nigeria.</h3>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=drizzyposh.drizzyposh&style=flat-square&color=ffeb00) -->
+Views
+
 <a href="https://www.youtube.com/watch?v=ZxZ1I1yTCUI&ab_channel=Joshwin"> 
 <img src="https://profile-counter.glitch.me/drizzyposh/count.svg" alt="drizzyposh" />
 </a>
