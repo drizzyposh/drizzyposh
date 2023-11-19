@@ -22,33 +22,6 @@ Views
 <h2><p align="center">  Technologies  </p> </h2>
 
 <p align="center">
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=css3&logoColor=white" />
-  
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=yellow" />
-
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-007ACC?style=flat-square&logo=bootstrap&logoColor=purple" />
-  
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-
-  <img alt="React" src="https://img.shields.io/badge/-React-007ACC?style=flat-square&logo=react&logoColor=darkblue" />
-  
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-007ACC?style=flat-square&logo=firebase&logoColor=yellow" />
-
-  <img alt="Github" src="https://img.shields.io/badge/-Github-007ACC?style=flat-square&logo=github&logoColor=black" />
-  
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  
-  <img alt="Php" src="https://img.shields.io/badge/-Php-CB3837?style=flat-square&logo=php&logoColor=white" />
-  
-  <img alt="netlify" src="https://img.shields.io/badge/-Netlify-CB3837?style=flat-square&logo=netlify&logoColor=white" />
-
-  <img alt="PhotoShop" src="https://img.shields.io/badge/-AdobePhotoshop-007ACC?style=flat-square&logo=adobephotoshop&logoColor=white" />
-  
-  <img alt="Illustrator" src="https://img.shields.io/badge/-Adobeillustrator-007ACC?style=flat-square&logo=adobepillustrator&logoColor=white" />
-  
-  <img alt="After effect" src="https://img.shields.io/badge/-AdobeAfterEffects-007ACC?style=flat-square&logo=adobeaftereffects&logoColor=white" />
   
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -64,6 +37,10 @@ Views
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
       <br>Bootstrap
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="tailwind" />
+      <br>Tailwind
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
