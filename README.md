@@ -61,6 +61,10 @@ Views
       <br>MySQL
     </td>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="icon" width="40" height="40" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
       <br>Github
     </td>
