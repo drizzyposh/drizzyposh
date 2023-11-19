@@ -40,6 +40,8 @@ Views
   
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   
+  <img alt="Php" src="https://img.shields.io/badge/-Php-CB3837?style=flat-square&logo=php&logoColor=white" />
+  
   <img alt="netlify" src="https://img.shields.io/badge/-Netlify-CB3837?style=flat-square&logo=netlify&logoColor=white" />
 
   <img alt="PhotoShop" src="https://img.shields.io/badge/-AdobePhotoshop-007ACC?style=flat-square&logo=adobephotoshop&logoColor=white" />
